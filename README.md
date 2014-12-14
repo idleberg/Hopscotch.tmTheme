@@ -28,7 +28,28 @@ Also [available](https://github.com/idleberg/Hopscotch) for these apps:
 * Windows Command Prompt
 * XCode
 
-Please refer to the individual apps for installation instructions
+## Installation
+
+### TextMate
+
+1. Download a `.tmTheme` file of choice
+2. Copy the file to `~/Library/Application Support/TextMate/Themes`
+
+### Sublime Text
+
+#### Package Control
+
+1. Make sure you already have [Package Control](http://wbond.net/sublime_packages/package_control/) installed
+2. Choose *Install Package* from the Command Palette (`Ctrl+Shift+P` on Windows/Linux, `⇧⌘P` on OS X)
+3. Select *Hopscotch Color Scheme* and press `Enter`
+
+With [auto_upgrade](http://wbond.net/sublime_packages/package_control/settings/) enabled, Package Control will keep all installed packages up-to-date!
+
+#### Manual Installation
+
+1. Download a `.tmTheme` file of choice
+2. *Browse Packages* from the Command Palette (`Ctrl+Shift+P` on Windows/Linux, `⇧⌘P` on OS X)
+3. Copy the `.tmTheme` file to `Packages`
 
 ## License
 

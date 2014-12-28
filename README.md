@@ -8,6 +8,7 @@ Also [available](https://github.com/idleberg/Hopscotch) for these apps:
 
 * Atom
 * BBEdit
+* Brackets
 * CodeMirror
 * Emacs
 * Gedit
@@ -23,6 +24,7 @@ Also [available](https://github.com/idleberg/Hopscotch) for these apps:
 * Rainbow
 * Shell
 * Terminal
+* TextMate
 * Vim
 * Visual Studio
 * Windows Command Prompt

@@ -6,7 +6,7 @@ Color scheme inspired by the [Hopscotch](http://www.gethopscotch.com/) learning 
 
 Also [available](https://github.com/idleberg/Hopscotch) for these apps:
 
-* Atom
+* [Atom](https://atom.io/themes/hopscotch)
 * BBEdit
 * Brackets
 * CodeMirror
@@ -34,7 +34,7 @@ Also [available](https://github.com/idleberg/Hopscotch) for these apps:
 
 ### TextMate
 
-1. Download a `.tmTheme` file of choice
+1. Download `Hopscotch.tmTheme`
 2. Copy the file to `~/Library/Application Support/TextMate/Themes`
 
 ### Sublime Text
@@ -47,9 +47,14 @@ Also [available](https://github.com/idleberg/Hopscotch) for these apps:
 
 With [auto_upgrade](http://wbond.net/sublime_packages/package_control/settings/) enabled, Package Control will keep all installed packages up-to-date!
 
+#### Git
+
+1. Change to your Sublime Text `Packages` directory
+2. Clone repository `git clone https://github.com/idleberg/Hopscotch.tmTheme`
+
 #### Manual Installation
 
-1. Download a `.tmTheme` file of choice
+1. Download `Hopscotch.tmTheme`
 2. *Browse Packages* from the Command Palette (`Ctrl+Shift+P` on Windows/Linux, `⇧⌘P` on OS X)
 3. Copy the `.tmTheme` file to `Packages`
 

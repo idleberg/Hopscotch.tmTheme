@@ -47,10 +47,11 @@ Also [available](https://github.com/idleberg/Hopscotch) for these apps:
 
 With [auto_upgrade](http://wbond.net/sublime_packages/package_control/settings/) enabled, Package Control will keep all installed packages up-to-date!
 
-#### Git
+#### GitHub
 
 1. Change to your Sublime Text `Packages` directory
 2. Clone repository `git clone https://github.com/idleberg/Hopscotch.tmTheme`
+3. Enable theme from the *Sublime Text/Preferences/Color Scheme* menu
 
 #### Manual Installation
 

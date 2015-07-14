@@ -1,5 +1,8 @@
 # Hopscotch for Sublime Text (and TextMate)
 
+[![Creative Commons](https://img.shields.io/badge/license-CC0%201.0-orange.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![Travis CI](https://img.shields.io/travis/idleberg/Hopscotch.tmTheme.svg?style=flat-square)](https://travis-ci.org/idleberg/Hopscotch.tmTheme)
+
 Color scheme inspired by the [Hopscotch](http://www.gethopscotch.com/) learning platform for kids
 
 ![Screenshot](https://raw.github.com/idleberg/Hopscotch.tmTheme/master/preview.png)

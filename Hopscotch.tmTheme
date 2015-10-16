@@ -8,7 +8,7 @@
 	<key>name</key>
 	<string>Hopscotch</string>
 	<key>semanticClass</key>
-	<string>base16.hopscotch.dark</string>
+	<string>theme.dark.hopscotch</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

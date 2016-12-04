@@ -30,6 +30,7 @@ Also [available](https://github.com/idleberg/Hopscotch) for these apps:
 * TextMate
 * Vim
 * Visual Studio
+* [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=idleberg.nsis)
 * Windows Command Prompt
 * XCode
 
